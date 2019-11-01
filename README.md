@@ -503,4 +503,6 @@ If you are getting an Internal Server Error or any other error(s), make sure to 
 $ sudo cat /var/log/apache2/error.log
 
 . Other Helpful Resources
-DigitalOcean How To Deploy a Flask Application on an Ubuntu VPS
+https://knowledge.udacity.com/questions/58974
+http://sqlalche.me/e/e3q8
+https://stackoverflow.com/questions/43268415/postgres-error-role-username-doesnt-exist-role-username-already-exists/56658832#56658832https://www.postgresql.org/docs/9.1/server-start.html
