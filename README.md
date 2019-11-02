@@ -1,10 +1,14 @@
 Udacity - Linux Server Configuration Project
 - Udacity FullStack Web Developer - Nanodegree.
 
-Server Access Information -- 
+Server Access Information
+
 Server Public IP: 3.16.67.23
+
 SSH server access port: 2200
+
 SSH login username: grader
+
 Application URL: http://3.16.67.23.xip.io
 
 
